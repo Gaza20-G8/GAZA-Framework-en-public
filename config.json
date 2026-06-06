@@ -1,0 +1,28 @@
+{
+  "app": {
+    "name": "GAZA Framework",
+    "version": "9.0",
+    "author": "Gaza20-G8",
+    "signature": "Snapchat: Gaza9.0k"
+  },
+  "theme": {
+    "primary_color": "red",
+    "secondary_color": "white",
+    "background_color": "black",
+    "style": "cyberpunk"
+  },
+  "logging": {
+    "enabled": true,
+    "level": "INFO",
+    "file": "logs/gaza.log"
+  },
+  "dashboard": {
+    "refresh_rate": 1,
+    "show_banner": true,
+    "show_footer": true
+  },
+  "plugins": {
+    "auto_load": true,
+    "directory": "plugins"
+  }
+}
